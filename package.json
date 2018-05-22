@@ -37,8 +37,5 @@
     "> 1%",
     "last 2 versions",
     "not ie <= 8"
-  ],
-  "main": "index.js",
-  "author": "boomel <boomel1@gmail.com>",
-  "license": "MIT"
+  ]
 }
